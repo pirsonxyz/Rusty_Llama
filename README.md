@@ -21,6 +21,7 @@ In the root of the project directory, you'll find a `.env` file where an environ
 
 ### TailwindCSS
 Install TailwindCSS with `bun install -D tailwindcss`
+Or `npm install -D tailwindcss`
 
 ### Run
 To run the project locally, 
