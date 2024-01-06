@@ -20,7 +20,7 @@ You'll also need to download a model (in GGML format) of your choice that is [su
 In the root of the project directory, you'll find a `.env` file where an environment variable called `MODEL_PATH` is defined. Replace the value with the full path to the desired model file.
 
 ### TailwindCSS
-Install TailwindCSS with `npm install -D tailwindcss`
+Install TailwindCSS with `bun install -D tailwindcss`
 
 ### Run
 To run the project locally, 
