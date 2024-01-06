@@ -1,5 +1,4 @@
-
-### Rusty Llama Webapp fork by Pirson
+## Rusty Llama Webapp fork by Pirson
 A simple webapp to showcase the ability to write a simple chatbot webapp using only Rust, TailwindCSS and an Open Source language model such as a variant of GPT, LLaMA, etc.
 
 ## Setup Instructions
@@ -37,3 +36,7 @@ To run the project locally,
 <picture>
 <img src="https://raw.githubusercontent.com/Me163/rusty_llama/main/metal_llama.png" />
 </picture>
+
+# Donate
+xmr: 84ocb3sVs4uB8dYYTNjYTsUguG7NGmWZJ5kCtXqbAP7Zjkx62ogNSTDBfy1mfJoGezAvCe31V1kp5EqiEBRUHrDd8HoqpDi
+eth: 0x447bc49b9F42541D9A5bEC35c3104d3A3c5c24Be
