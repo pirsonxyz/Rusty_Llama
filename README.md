@@ -5,7 +5,7 @@ A simple webapp to showcase the ability to write a simple chatbot webapp using o
 ## Setup Instructions
 
 ### Hardware
-By default, the project has Apple's Metal acceleration enabled. :qif you are on a system with an Nvidia GPU, you may need to add CUDA as a feature (I haven't tested this, anyone who does so feel free to PR an update to this readme).
+By default, the project has CPU' acceleration enabled.I f you are on a system with an Nvidia GPU, you may need to add CUDA as a feature (I haven't tested this, anyone who does so feel free to PR an update to this readme).
 
 ### Rust Toolchain
 You'll need to use the nightly Rust toolchain, and install the `wasm32-unknown-unknown` target as well as the Trunk and `cargo-leptos` tools:
