@@ -32,6 +32,7 @@ To run the project locally,
 * [Wizard-Vicuna-7B-Uncensored.ggmlv3.q8_0.bin](https://huggingface.co/TheBloke/Wizard-Vicuna-7B-Uncensored-GGML)
 * [Wizard-Vicuna-7B-Uncensored.ggmlv3.q4_K_S.bin](https://huggingface.co/TheBloke/Wizard-Vicuna-7B-Uncensored-GGML)
 * [gpt4-x-vicuna-13B.ggmlv3.q4_0.bin](https://huggingface.co/TheBloke/gpt4-x-vicuna-13B-GGML)
+* [chronos-hermes-13b.ggmlv3.q5_1.bin](https://huggingface.co/TheBloke/chronos-hermes-13B-GGML)
 
 <picture>
 <img src="https://raw.githubusercontent.com/Me163/rusty_llama/main/metal_llama.png" />
