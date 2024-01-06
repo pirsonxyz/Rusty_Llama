@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 authors = ["Pirson"]
 description = "A fork of rusty_llama"
+license = "MIT"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
