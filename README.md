@@ -1,8 +1,8 @@
-## Rusty Llama Webapp fork by Pirson
+# Rusty Llama Webapp fork by Pirson
 A simple webapp to showcase the ability to write a simple chatbot webapp using only Rust, TailwindCSS and an Open Source language model such as a variant of GPT, LLaMA, etc.
 
-# Example Response
-``` First Law (Law of Inertia) - An object at rest will remain at rest, and an object in uniform linear acceleration will continue to move with a constant velocity, unless acted upon by an external force. Explanation: This means that if there is no net force acting on an object, it won't experience any change in its motion. If the object is already moving uniformly (at a steady speed and direction), then it will continue to do so without changing unless something else forces it to stop or slow down/speed up/change direction ```
+## Example Response
+First Law (Law of Inertia) - An object at rest will remain at rest, and an object in uniform linear acceleration will continue to move with a constant velocity, unless acted upon by an external force. Explanation: This means that if there is no net force acting on an object, it won't experience any change in its motion. If the object is already moving uniformly (at a steady speed and direction), then it will continue to do so without changing unless something else forces it to stop or slow down/speed up/change direction.
 
 ## Setup Instructions
 
