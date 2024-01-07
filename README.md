@@ -38,7 +38,7 @@ To run the project locally,
 * [chronos-hermes-13b.ggmlv3.q5_1.bin](https://huggingface.co/TheBloke/chronos-hermes-13B-GGML)
 
 <picture>
-<img src="https://raw.githubusercontent.com/Me163/rusty_llama/main/metal_llama.png" />
+<img src="https://github.com/pirsonxyz/Rusty_Llama/blob/main/LLAMA.png" />
 </picture>
 
 ## Donate
