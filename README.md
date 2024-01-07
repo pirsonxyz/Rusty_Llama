@@ -42,12 +42,11 @@ To run the project locally,
 1. In in your browser, navigate to [http://localhost:3000/?](http://localhost:3000/?)
 
 ## Tested Models
-* [Wizard-Vicuna-7B-Uncensored.ggmlv3.q8_0.bin](https://huggingface.co/TheBloke/Wizard-Vicuna-7B-Uncensored-GGML)
+* [Wizard-Vicuna-7B-Uncensored.ggmlv3.q8_0.bin](https://huggingface.co/TheBloke/Wizard-Vicuna-7B-Uncensored-GGML)      * [orca-mini-3b.ggmlv3.q5_0.bin](https://huggingface.co/TheBloke/orca_mini_3B-GGML/blob/main/orca-mini-3b.ggmlv3.q5_0.bin)
 * [Wizard-Vicuna-7B-Uncensored.ggmlv3.q4_K_S.bin](https://huggingface.co/TheBloke/Wizard-Vicuna-7B-Uncensored-GGML)
 * [gpt4-x-vicuna-13B.ggmlv3.q4_0.bin](https://huggingface.co/TheBloke/gpt4-x-vicuna-13B-GGML)
 * [chronos-hermes-13b.ggmlv3.q5_1.bin](https://huggingface.co/TheBloke/chronos-hermes-13B-GGML)
 * [Samantha-7B.ggmlv3.q4_0.bin](https://huggingface.co/TheBloke/Samantha-7B-GGML/blob/main/Samantha-7B.ggmlv3.q4_0.bin)
-* [orca-mini-3b.ggmlv3.q5_0.bin](https://huggingface.co/TheBloke/orca_mini_3B-GGML/blob/main/orca-mini-3b.ggmlv3.q5_0.bin)
 
 <picture>
 <img src="https://github.com/pirsonxyz/Rusty_Llama/blob/main/LLAMA.png" />
